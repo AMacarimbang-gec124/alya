@@ -1,0 +1,19 @@
+IMAGE SOURCES / NOTES
+========================
+
+Local user-provided images:
+- assets/me.jfif — user's portrait
+- assets/lewis-hamilton.jfif — user-provided Lewis Hamilton photo
+- assets/carlos-sainz.jfif — user-provided Carlos Sainz photo
+- assets/sebastian-vettel.jfif — user-provided Sebastian Vettel photo
+- assets/mark-webber.jfif — user-provided Mark Webber photo
+- assets/kimi-antonelli.jfif — user-provided Kimi Antonelli photo
+- assets/ollie-bearman.jfif — user-provided Ollie Bearman photo
+- assets/khiphop.jfif — user-provided K-hiphop photo
+
+Web images:
+- Red Velvet group image — Wikimedia Commons
+- Heavy / R&B / Indie images — Wikimedia Commons
+- TV/movie imagery retained from previous version
+
+The website does not use AI-generated artwork.
